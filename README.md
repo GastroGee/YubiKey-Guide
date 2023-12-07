@@ -899,27 +899,7 @@ Current allowed actions: Sign Encrypt
    (A) Toggle the authenticate capability
    (Q) Finished
 
-Your selection? S
-
-Possible actions for a RSA key: Sign Encrypt Authenticate
-Current allowed actions: Encrypt
-
-   (S) Toggle the sign capability
-   (E) Toggle the encrypt capability
-   (A) Toggle the authenticate capability
-   (Q) Finished
-
-Your selection? E
-
-Possible actions for a RSA key: Sign Encrypt Authenticate
-Current allowed actions:
-
-   (S) Toggle the sign capability
-   (E) Toggle the encrypt capability
-   (A) Toggle the authenticate capability
-   (Q) Finished
-
-Your selection? A
+Your selection? =A
 
 Possible actions for a RSA key: Sign Encrypt Authenticate
 Current allowed actions: Authenticate
